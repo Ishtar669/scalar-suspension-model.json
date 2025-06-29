@@ -1,0 +1,11 @@
+// Example resonance point definition
+{
+  "point_id": "RP-044X",
+  "frequency": 12.8, // GHz
+  "harmonic_mode": "icosahedral",
+  "coordinates": {
+    "altitude": 85.2, // km
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  }
+}
